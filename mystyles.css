@@ -1,0 +1,8 @@
+body{
+	font-family:sans-serif;
+ background: url(http://img2.wikia.nocookie.net/__cb20110722230336/adventuretimewithfinnandjake/images/6/6a/Vlcsnap-321831.png)
+}
+h1{color:red;}
+.active{
+	border: 40px black solid;
+}p{margin : 20px;}
